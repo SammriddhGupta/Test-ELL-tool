@@ -1,0 +1,13 @@
+qn_id,qn_text,type,level,type,response_type,tags,instructions,hints,answer
+1,Fill in the blank with an appropriate article: She is ___ teacher.,fill,1,Grammar,FIB,Articles,"Fill in the blank with 'a', 'an', or 'the'.",Use 'an' before vowel sounds.,She is a teacher.
+2,Fill in the blanks with the correct form of the verb (to be): He ___ happy.,fill,2,Grammar,FIB,Verb Conjugation,Complete the sentence using the correct form of 'to be'.,Think about the subject-verb agreement.,"He is happy.
+
+"
+3,Convert the sentence from active to passive voice: The teacher inspired her students to think critically.,generate,4,Syntax,Short answer,Passive Voice,Rewrite the sentence in the passive voice.,Identify the object and make it the subject.,"Her students were inspired to think critically by the teacher.
+
+"
+4,Make the sentence polite: Close the door.,Generate,3,Syntax,Short answer,Politeness,Rewrite the sentence in a polite manner.,"Use 'please' and formal language.
+
+",Please close the door.
+,,,,,,,,,"
+"
